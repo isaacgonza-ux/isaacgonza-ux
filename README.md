@@ -40,13 +40,14 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologías que he aprendido👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Tecnologías con las que he trabajado 👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,vite,java,py,kotlin,spring,linux,mongodb,mysql,postman,vscode,git,aws,cloudflare,discord,docker,vercel,figma,github,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,vite,java,py,kotlin,androidstudio,spring,linux,mongodb,mysql,postman,vscode,git,aws,cloudflare,discord,docker,vercel,figma,github,&perline=14" />
+    
   </a>
 </p>
 
