@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <p>Desarrollador full-stack con enfoque en backend · Último semestre de Analista Programador en DUOC UC 🇨🇱</p>
+  <p>Desarrollador full-stack · Último semestre de Analista Programador en DUOC UC 🇨🇱</p>
 </div>
 
 <div id="user-content-toc">
