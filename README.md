@@ -25,10 +25,10 @@
 
 - 🔭 &nbsp;Trabajo con **Java, Spring Boot, Kotlin, Python, HTML, CSS, JavaScript**
 - 🗄️ &nbsp;Bases de datos: **Oracle SQL, MongoDB**
-- ☁️ &nbsp;Cloud & Deploy: **AWS S3, Docker, Railway, Cloudflare, Vercel**
+- ☁️ &nbsp;Cloud & Deploy: **AWS S3, Docker, Railway, Cloudflare, Vercel, Azure**
 - 💬 &nbsp;Puedo ayudarte con: **Spring Boot · JWT · SQL · APIs REST**
 - 🤝 &nbsp;Busco colaborar en: **proyectos web full-stack y apps Android**
-- 🌱 &nbsp;Actualmente aprendiendo: **microservicios avanzados y AWS**
+- 🌱 &nbsp;Actualmente trabajando en : **Sistema de ventas (pos)**
 - 📍 &nbsp;Chile
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
